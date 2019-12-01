@@ -1,0 +1,6 @@
+C:\Users\YUNA\YUNA\2019\C#\Generic Programming\bin\Debug\Generic Programming.exe.config
+C:\Users\YUNA\YUNA\2019\C#\Generic Programming\bin\Debug\Generic Programming.exe
+C:\Users\YUNA\YUNA\2019\C#\Generic Programming\bin\Debug\Generic Programming.pdb
+C:\Users\YUNA\YUNA\2019\C#\Generic Programming\obj\Debug\Generic Programming.csprojAssemblyReference.cache
+C:\Users\YUNA\YUNA\2019\C#\Generic Programming\obj\Debug\Generic Programming.exe
+C:\Users\YUNA\YUNA\2019\C#\Generic Programming\obj\Debug\Generic Programming.pdb
