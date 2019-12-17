@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Programming", "..\Generic Programming\Generic Programming.csproj", "{A57326A5-0C16-450D-A5EE-5E1718F24326}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "..\Delegate\Delegate.csproj", "{7C5EB122-EEE3-4B59-9034-DF9C3DBF36D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate2", "..\Delegate2\Delegate2.csproj", "{1DB2DEC0-7180-43AE-A0D4-DF3E3157F035}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A57326A5-0C16-450D-A5EE-5E1718F24326}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A57326A5-0C16-450D-A5EE-5E1718F24326}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A57326A5-0C16-450D-A5EE-5E1718F24326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5EB122-EEE3-4B59-9034-DF9C3DBF36D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5EB122-EEE3-4B59-9034-DF9C3DBF36D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5EB122-EEE3-4B59-9034-DF9C3DBF36D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5EB122-EEE3-4B59-9034-DF9C3DBF36D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DB2DEC0-7180-43AE-A0D4-DF3E3157F035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB2DEC0-7180-43AE-A0D4-DF3E3157F035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB2DEC0-7180-43AE-A0D4-DF3E3157F035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB2DEC0-7180-43AE-A0D4-DF3E3157F035}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
